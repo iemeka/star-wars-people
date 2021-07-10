@@ -1,1 +1,3 @@
-# Working with the star wars API
+# The Star Wars API
+
+This app provides a detailed list of characters in the Star Wars movie.

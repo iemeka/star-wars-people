@@ -1,2 +1,0 @@
-(this["webpackJsonpstar-wars-people"]=this["webpackJsonpstar-wars-people"]||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var r=n(1),s=n.n(r),c=n(3),a=n.n(c),o=(n(8),n(9),n(0));var i=function(){return Object(o.jsx)("div",{className:"App",children:"Hello Care."})};a.a.render(Object(o.jsx)(s.a.StrictMode,{children:Object(o.jsx)(i,{})}),document.getElementById("root"))},8:function(e,t,n){},9:function(e,t,n){}},[[11,1,2]]]);
-//# sourceMappingURL=main.a487afc7.chunk.js.map

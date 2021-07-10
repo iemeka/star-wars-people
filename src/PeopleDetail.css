@@ -24,6 +24,7 @@ section .detail p {
   font-family: monospace;
 }
 
+
 section .detail div {
   border-bottom: 2px solid #e3e4e677;
   margin-bottom: 10px;

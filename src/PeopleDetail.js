@@ -47,7 +47,7 @@ export default function PeopleDetail() {
             </div>
             <div>
               <span> Home world : </span>
-              {person.homeworld}
+             <a href={person.homeworld} style={{color:"#2c2c54",fontSize:"1rem"}} >{person.homeworld}</a>
             </div>
             <div>
               <span>Films :</span> <ListOut items={person.films || []} />

@@ -13,6 +13,7 @@ aside * {
   overflow-y: scroll;
   height: 780px;
   padding: 0 10px;
+  list-style: none;
 }
 
 .body aside li {

@@ -1,0 +1,18 @@
+.control-btn {
+  border-top: 2px solid #5c8001;
+  margin-top: auto;
+  margin-bottom: 10px;
+  text-align: center;
+  padding: 5px;
+}
+
+.control-btn button {
+  font-size: 1rem;
+  padding: 0px 15px;
+  background-color: #c0392b;
+  border: 0px;
+}
+
+.control-btn button:hover {
+  background-color: #e05848;
+}

@@ -1,0 +1,44 @@
+aside * {
+  border: 0px;
+}
+
+.container .body aside {
+  width: 400px;
+  padding: 10px;
+}
+
+.body aside ul {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  height: 780px;
+  padding: 0 10px;
+}
+
+.body aside li {
+  padding: 7px;
+  box-shadow: 2px 2px 4px -3px;
+  margin-bottom: 6px;
+  cursor: pointer;
+}
+.body aside li:hover {
+  background-color: #dedede;
+}
+.body aside li:hover h3 {
+  color: #3b5300;
+}
+
+.body aside li:hover p {
+  color: #b33939;
+}
+
+aside li h3 {
+  font-size: 1.4rem;
+  color: #718093;
+  margin-bottom: 4px;
+}
+
+aside li p {
+  font-size: 1rem;
+  color: #718093;
+}

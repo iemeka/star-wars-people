@@ -6,4 +6,6 @@ export const context = React.createContext({
   getPerson: () => {},
   person: {},
   setPerson: () => {},
+  pageUrl: "",
+  setPageUrl: () => {},
 });

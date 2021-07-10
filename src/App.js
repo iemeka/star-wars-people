@@ -1,9 +1,13 @@
 import ContextProvider from "./assets/environ/ContextProvider";
-import Main from './Main'
-// import People from "./People";
+import Main from "./Main";
 
 function App() {
-  return <ContextProvider> <Main /> {/* <People /> */}</ContextProvider>;
+  return (
+    <ContextProvider>
+      {" "}
+      <Main />
+    </ContextProvider>
+  );
 }
 
 export default App;
